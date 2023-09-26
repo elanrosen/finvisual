@@ -1,6 +1,8 @@
-"# Finvisual
+# Finvisual
 
 Finvisual is a personal project I developed to simplify the complexity of institutional-grade financial data. The tool enables individuals like you and me to extract valuable information from SEC filings, construct custom models, and share the outcomes. 
+
+https://finvisual.app/
 
 ## Features
 
@@ -14,7 +16,7 @@ Finvisual is a personal project I developed to simplify the complexity of instit
 
 ## Live Beta Testing
 
-Currently, my tool, Finvisual, is under live beta testing phase. I invite you to [access our live beta](http://yoururl.here) and share your experiences to refine the features and functionalities.
+Currently, my tool, Finvisual, is under live beta testing phase. I invite you to [access our live beta](https://finvisual.app/) and share your experiences to refine the features and functionalities.
 
 ## Getting in Touch
 
